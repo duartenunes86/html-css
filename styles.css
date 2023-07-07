@@ -1,15 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Sofia');
+
 body{
     background-color: aqua;
 
 }
 img{
-    width:150px;
-    height:150px;
+    width:350px;
+    height:300px;
     border: 5px solid #555;
     margin-bottom:0;
     margin-left:50px;
 }
-h1, h2, h3, h4, h5, h6 {font-family:serif;
+h1, h2, h3, h4, h5, h6 {font-family:Sofia;
 margin:0 0 0 0;
 }
 li{
